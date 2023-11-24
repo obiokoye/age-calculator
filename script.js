@@ -35,7 +35,7 @@ function calculateAge(){
     result.innerHTML = `
     <div class="result-item">
     <h3>Age:</h3>
-    <p>${ageInYears} Years ${ageInMonths % 12} Months ${ageInDays % 30} Days</p>
+    <p>${ageInYears} Years</p>
     </div>
     <div class="result-item">
         <h3>Months Passed:</h3>
